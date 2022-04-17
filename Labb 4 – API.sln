@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb 4 – API", "Labb 4 – API\Labb 4 – API.csproj", "{3D61783B-74F8-424C-8549-5B9DD7986AA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D61783B-74F8-424C-8549-5B9DD7986AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D61783B-74F8-424C-8549-5B9DD7986AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D61783B-74F8-424C-8549-5B9DD7986AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D61783B-74F8-424C-8549-5B9DD7986AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D691F838-7EA9-4235-9A79-DA605AB87445}
+	EndGlobalSection
+EndGlobal
